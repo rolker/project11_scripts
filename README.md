@@ -1,4 +1,1 @@
-Scripts used in CCOM's Project 11.
-
-In ~/project11, git clone https://github.com/CCOMJHC/project11_scripts.git scripts
-
+This repo is depacrated, it has been incorporated into the top level project11 repo.
